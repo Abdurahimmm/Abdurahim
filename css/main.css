@@ -25,6 +25,7 @@ html, body {
 p {
   width: 70%;
   margin: auto;
-  text-align: center; }
+  text-align: center;
+  background-color: red; }
 
 /*# sourceMappingURL=main.css.map */
