@@ -1,0 +1,30 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #ccc; }
+
+.part01 {
+  width: 70%;
+  background-color: #666;
+  margin: 0 auto; }
+
+.part01__mneu {
+  display: flex;
+  list-style: none; }
+
+.part01__menu-item {
+  background-color: green;
+  margin-right: 3rem;
+  text-align: center; }
+
+.titile {
+  text-align: center; }
+
+p {
+  width: 70%;
+  margin: auto;
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
